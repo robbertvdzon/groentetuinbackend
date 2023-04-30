@@ -1,0 +1,13 @@
+.idea
+target
+**/*.iml
+/.data/
+
+.DS_Store
+
+operations-demand-service/*.avro
+operations-demand-service/*.avsc
+operations-demand-service/_*
+
+**/hs_err_*.log
+**/pom.xml.versionsBackup
